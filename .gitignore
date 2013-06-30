@@ -42,13 +42,15 @@ local.properties
 *.sln.docstates
 
 # Build results
-
 [Dd]ebug/
 [Rr]elease/
 x64/
 build/
 [Bb]in/
 [Oo]bj/
+
+# NuGet files
+packages/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
