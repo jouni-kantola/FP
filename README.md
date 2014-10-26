@@ -4,6 +4,9 @@ Summary of my venture into Functional Programming.
 ##Word list
 Descriptions from random sources about related topics.
 
+###Referential transparency
+The capability to replace a word with a definition, without changing the meaning, nor have any resulting side effects.
+
 ###Function
 Map a value to another in a known way.
 
